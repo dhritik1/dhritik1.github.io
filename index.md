@@ -10,7 +10,7 @@
     <img src="https://thebigmansworld.com/wp-content/uploads/2023/07/spicy-ramen-recipe-500x500.jpg" width="300" height="300">
     <h2>Table of Contents</h2>
     <ul>
-      <a href="Introduction"><li>Introduction</li></a>
+      <a href="#introduction"><li>Introduction</li></a>
       <li>Origin</li>
       <li>Places to Eat</li>
       <li>Buldak Ramen</li>
