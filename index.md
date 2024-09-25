@@ -12,7 +12,7 @@
     <ul>
       <a href="#introduction"><li>Introduction</li></a>
       <a href="#origin"><li>Origin</li></a>
-      <a href="#places to eat"><li>Places to Eat</li></a>
+      <a href="#places to eat"><li>Places to Eat Near LA</li></a>
       <a href="#buldak ramen"><li>Buldak Ramen</li></a>
       <a href="#contact"><li>Contact</li></a>
     </ul>
@@ -23,10 +23,13 @@
     </div>
     <div id="origin">
       <h3>Origin</h3>
-      <p></p>
+      <img src="https://tokofoods.com/cdn/shop/files/128-LB_AidonWu.jpg?v=1701470632&width=416" width="400" height="300">
+      <p>Ramen originiated in China during the late 19th century. However, it was brought to Japan by Chinese immigrants, and ramen was customized to match the flavors of the Japaneese. They started changing the Chinese wheat noodle soups into a more delicous form wnow known as <em>"ramen"</em>.</p>
     </div>
     <div id="places to eat">
-      <h3>Places to Eat</h3>
+      <h3>Places to Eat Near LA</h3>
+      <h5></h5>
+      <p></p>
     </div>
     <div id="buldak ramen">
       <h3>Buldak Ramen</h3>
