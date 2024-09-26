@@ -8,6 +8,7 @@
   <body>
     <h1>Ramen</h1>
     <a href="https://en.wikipedia.org/wiki/Ramen" target="_blank"><img src="https://thebigmansworld.com/wp-content/uploads/2023/07/spicy-ramen-recipe-500x500.jpg" width="300" height="300"></a>
+    <p>Click this picture to learn more!</p>
     <h2>Table of Contents</h2>
     <ul>
       <a href="#introduction"><li>Introduction</li></a>
@@ -17,25 +18,58 @@
       <a href="#contact"><li>Contact</li></a>
     </ul>
     <div id="introduction">
-      <h3>Introduction</h3>
+      <h32>Introduction</h2>
       <img src="https://recipes.net/wp-content/uploads/2022/09/rsz_miso-ramen.jpg" width="400" height="300">
       <p>Ramen is a type of Japanese noodle soup. With millions of people enjoying this dish worldwide, it is considered one of the world's most favorite foods. Ramen typically consists of 3 main components: <strong>broth</strong>, <strong>noodles</strong>, and <strong>toppings</strong>. <br><br>The broth is the most important part of ramen, giving it all its flavor. Noodles can come in different types - Udon noodles, wheat noodles, etc. Lastly, the toppings can range from half-cooked eggs and meat to exotic vegetables.<br><br>Ramen is also a very versatile dish, as customers from different background can customize their dish based on their likes and dislikes.</p>
     </div>
     <div id="origin">
-      <h3>Origin</h3>
+      <h2>Origin</h2>
       <img src="https://tokofoods.com/cdn/shop/files/128-LB_AidonWu.jpg?v=1701470632&width=416" width="400" height="300">
       <p>Ramen originiated in China during the late 19th century. However, it was brought to Japan by Chinese immigrants, and ramen was customized to match the flavors of the Japaneese. They started changing the Chinese wheat noodle soups into a more delicous form wnow known as <em>"ramen"</em>.</p>
     </div>
     <div id="places to eat">
-      <h3>Places to Eat Near LA</h3>
-      <h5></h5>
-      <p></p>
+      <h2>Places to Eat Near LA</h2>
+      <ul> 
+      <li>
+        <strong>Daikokuya Little Tokyo</strong>
+        <p>327 1st St, Los Angeles, CA 90012<p>
+      </li>
+      <li>
+        <strong>Tatsu Ramen</strong>
+        <p>7111 Melrose Ave, Los Angeles, CA 90046</p>
+      </li>
+      <li>
+        <strong>Tsujita LA Artisan Noodles</strong>
+        <p>2057 Sawtelle Blvd, Los Angeles, CA 90025</p>
+      </li>
+      <li>
+        <strong>The Ramen Joint</strong>
+        <p>6220 W 87th St, Los Angeles, CA 90045</p>
+      </li>
+      </ul>
     </div>
     <div id="buldak ramen">
-      <h3>Buldak Ramen</h3>
+      <h2>Buldak Ramen</h2>
+      <img src="https://m.media-amazon.com/images/I/810ifI3CglL._AC_UF894,1000_QL80_.jpg" width="300" height="300">
+      <p>Buldak Ramen is a very famous brand of ramen instant noodles started by Samyung Foods. It is liked by millions of people around the world.</p>
+      <p>Buldak Ramen comes in a total of 11 different flavors. This is the list from most to least popular:</p>
+      <ol>
+        <li>Curry ramen</li>
+        <li>Quattro cheese ramen</li>
+        <li>Jjajang ramen</li>
+        <li>Kimchi ramen</li>
+        <li>Tomato pasta ramen</li>
+        <li>Cream carbonara ramen</li>
+        <li>Carbonara ramen</li>
+        <li>Plain spicy chicken ramen</li>
+        <li>Stew type ramen</li>
+        <li>Habanero lime ramen</li>
+        <li>2x Spicy ramen</li>
+      </ol>
+      <p>Out of all the flavors, the most popular one according to Buldak Ramen fans is the Hot Chicken Flavor.</p>
     </div>
     <div id="contact">
-      <h3>Contact</h3>
+      <h2>Contact</h2>
     </div>
   </body>
   
